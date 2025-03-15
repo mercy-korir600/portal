@@ -3,7 +3,8 @@ import { useState } from 'react'
 import Dashboard from './Pages/Dashboard'
 import Login from './Pages/Login'
 import Signup from './Pages/Signup'
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+// import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
 function App() {
  
